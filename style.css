@@ -1,0 +1,36 @@
+img{
+    width: 200px;
+    height: 250px;
+    border-radius: 25px;
+}
+p{
+    color: red;
+    font-weight: bold;
+}
+div{
+    text-align: center;
+}
+ol h5
+{
+	background: white;
+    padding: 13px;
+    border-radius: 20px;
+}
+span
+{
+	color: red;
+	font-size: 26px;
+}	
+#b, #d, #c, #e{
+    background-color: #bdc3c7;
+    border-radius: 25px;
+    height: 350px;
+    width: 90%;
+}
+
+#f{
+    background-color: #82ccdd;
+    border-radius: 25px;
+    height: 120px;
+    width: 90%;
+}
